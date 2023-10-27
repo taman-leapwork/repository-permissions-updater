@@ -4,7 +4,7 @@ github: &GH "jenkinsci/leapwork-plugin"
 paths:
   - "io/jenkins/plugins/leapwork"
 developers:
-  - "bir"
+  - "taman_leapwork"
 issues:
   - github: *GH
 cd:
